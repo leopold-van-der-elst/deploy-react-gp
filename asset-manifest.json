@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//leopold-van-der-elst.github.io/deploy-react-gp%20/static/css/main.e72867a4.css",
-    "main.js": "/http//leopold-van-der-elst.github.io/deploy-react-gp%20/static/js/main.8210f9fa.js",
-    "static/js/787.c37e88f2.chunk.js": "/http//leopold-van-der-elst.github.io/deploy-react-gp%20/static/js/787.c37e88f2.chunk.js",
-    "index.html": "/http//leopold-van-der-elst.github.io/deploy-react-gp%20/index.html",
-    "main.e72867a4.css.map": "/http//leopold-van-der-elst.github.io/deploy-react-gp%20/static/css/main.e72867a4.css.map",
-    "main.8210f9fa.js.map": "/http//leopold-van-der-elst.github.io/deploy-react-gp%20/static/js/main.8210f9fa.js.map",
-    "787.c37e88f2.chunk.js.map": "/http//leopold-van-der-elst.github.io/deploy-react-gp%20/static/js/787.c37e88f2.chunk.js.map"
+    "main.css": "/deploy-react-gp/static/css/main.e72867a4.css",
+    "main.js": "/deploy-react-gp/static/js/main.9166c03a.js",
+    "static/js/787.c37e88f2.chunk.js": "/deploy-react-gp/static/js/787.c37e88f2.chunk.js",
+    "index.html": "/deploy-react-gp/index.html",
+    "main.e72867a4.css.map": "/deploy-react-gp/static/css/main.e72867a4.css.map",
+    "main.9166c03a.js.map": "/deploy-react-gp/static/js/main.9166c03a.js.map",
+    "787.c37e88f2.chunk.js.map": "/deploy-react-gp/static/js/787.c37e88f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e72867a4.css",
-    "static/js/main.8210f9fa.js"
+    "static/js/main.9166c03a.js"
   ]
 }
